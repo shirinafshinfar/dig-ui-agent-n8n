@@ -1,2 +1,6 @@
-DIG searched for a moon-phase component and none was found; this React/CSS fallback implements the phase by shifting a white circle over a dark circle based on brightness.
-No DIG components or DIGCHE icons are used.
+یک فرم سادهٔ عضویت در خبرنامه با فیلد ایمیل و دکمهٔ ارسال ساخته شده است.
+
+- DIG components: Input, Button
+- DIGCHE icon: none (آیکون استفاده نشده)
+
+نحوه استفاده: NewsletterSignupDigOnly را در صفحه وارد کنید. فرم محلی مقدار ایمیل را نگه می‌دارد و پس از ارسال شبیه‌سازی شده پیام موفق نمایش می‌دهد.
