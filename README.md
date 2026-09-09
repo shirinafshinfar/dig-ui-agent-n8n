@@ -1,4 +1,2 @@
-توضیح کوتاه: یک دکمه DIG با متن «مشاهده» و آیکون چشم از DIGCHE ساخته شد.
-
-DIG components: Button
-DIGCHE icon: Eye (slug: eye)
+DIG searched for a moon-phase component and none was found; this React/CSS fallback implements the phase by shifting a white circle over a dark circle based on brightness.
+No DIG components or DIGCHE icons are used.
